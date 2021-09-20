@@ -3,7 +3,8 @@
 * 职业
 * 爱好
 
+
+
 ![avatar](./image/hs.jpg)
 
-![image]()
 
