@@ -18,8 +18,11 @@
 			<td> Programmer </td>
 			<th bgcolor="Blue">民族:</th>
 			<td>汉</td>
-			<td rowspan="3" width="144"<a href="https://www.so.com/s?ie=utf-8&shb=1&src=home_tab_image&q=%E4%BB%A3%E5%BA%94%E8%B1%AA"><img border="0" src="./image/xx.jpg" />
-		</a></p></td>
+			<td rowspan="3" width="144" >
+                <p>
+                   <a href="https://www.so.com/s?ie=utf-8&shb=1&src=home_tab_image&q=%E4%BB%A3%E5%BA%94%E8%B1%AA"><img border="0" src="./image/xx.jpg" />
+                </p>
+            </td>
 		</tr>
 
 	</table>
