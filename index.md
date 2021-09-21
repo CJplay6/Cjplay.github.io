@@ -4,22 +4,9 @@
 		<title>简历</title>
 	</head>
     <body>
-	    <table border="1" align="center" cellpadding="10" width="800">
-		    <tr>
-		    	<th colspan="1" bgcolor="#00BFFF">我的个人简介</th>
-	    	</tr>
- 
-	    	<tr>
-			    <th bgcolor="#00BFFF">姓名:</th>
-			    <td> Cjplay6 </td>
-			    <th bgcolor="#00BFFF">职业:</th>
-			    <td> Programmer </td>
-			    <th bgcolor="#00BFFF">民族:</th>
-		    	<td>汉</td>
-			    <td rowspan="3" width="144" >
-                    <p><a href="https://www.so.com/s?ie=utf-8&shb=1&src=home_tab_image&q=%E4%BB%A3%E5%BA%94%E8%B1%AA" /><img border="0" src="./image/xx.jpg" /></p>
-                </td>
-		    </tr>
-	    </table>
+		<h1>个人简介</h1>
+		<h4>姓名 : Cjplay6</h4>
+		<h4>工作 : Programmer</h4>
+		<h4>爱好 : C/C++</h4>
     </body>
 </html>
