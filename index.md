@@ -19,13 +19,13 @@
 		<img src="https://img2.baidu.com/it/u=1720778829,1931561071&fm=26&fmt=auto" title="girl5" width="88" border="6"/>
 		<img src="./image/xx.jpg" title="二次元" border="6" width="88"/>
 		<br/>
-		<img src="https://img1.baidu.com/it/u=1514871934,2710992004&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
-		<img src="https://img0.baidu.com/it/u=3261770158,1245204189&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
-		<img src="https://img1.baidu.com/it/u=75585872,2865707666&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
-		<img src="https://img0.baidu.com/it/u=2846988745,3646443111&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
-		<img src="https://img0.baidu.com/it/u=338599569,439222986&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
-		<img src="https://img1.baidu.com/it/u=1308452213,3203960568&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
-		<img src="https://img2.baidu.com/it/u=438284071,4120854275&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
+		<img src="https://img1.baidu.com/it/u=1514871934,2710992004&fm=26&fmt=auto" title="girl6" width="88" border="6"/>
+		<img src="https://img0.baidu.com/it/u=3261770158,1245204189&fm=26&fmt=auto" title="girl7" width="88" border="6"/>
+		<img src="https://img1.baidu.com/it/u=75585872,2865707666&fm=26&fmt=auto" title="girl8" width="88" border="6"/>
+		<img src="https://img0.baidu.com/it/u=2846988745,3646443111&fm=26&fmt=auto" title="girl9" width="88" border="6"/>
+		<img src="https://img0.baidu.com/it/u=338599569,439222986&fm=26&fmt=auto" title="girl10" width="88" border="6"/>
+		<img src="https://img1.baidu.com/it/u=1308452213,3203960568&fm=26&fmt=auto" title="girl11" width="88" border="6"/>
+		<img src="https://img2.baidu.com/it/u=438284071,4120854275&fm=26&fmt=auto" title="girl12" width="88" border="6"/>
 		<br/>
 		<br/>
 		<br/>
@@ -33,7 +33,7 @@
 		<br/>
 		<br/>
 		<br/>
-		<table>
+		<table width="1000">
 			<tr>
 				<td>
 					<h1 id="geren">个人简介</h1>
