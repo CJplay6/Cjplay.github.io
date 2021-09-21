@@ -71,7 +71,6 @@
 					<br/>
 					<img src="https://img1.baidu.com/it/u=2090098030,2357175027&fm=26&fmt=auto" title="me" width="128" border="6"/>
 				</td>
-				<td>&nbsp;</td>
 			</tr>
 		</table>
 
