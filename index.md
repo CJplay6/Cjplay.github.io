@@ -4,7 +4,7 @@
 		<title>简历</title>
 	</head>
  
-    <body>
+    <body background="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqqpublic.qpic.cn%2Fqq_public%2F0%2F0-2473265440-18BCBF628B8C95A18CEB8C74C9682938%2F0%3Ffmt%3Djpg%26size%3D164%26h%3D506%26w%3D900%26ppv%3D1.jpg&refer=http%3A%2F%2Fqqpublic.qpic.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634804873&t=07cbb3c1e5676d06d53e9f8d2d9d08a5">
 		<h1>目录</h1>
 		<br/>
 		<!-- <a href="#geren">个人简介</a> -->
