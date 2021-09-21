@@ -36,6 +36,10 @@
 			<tr>
 				<td>
 					<h1 id="geren">个人简介</h1>
+				</td>
+			</tr>
+			<tr>
+				<td>
 					<!-- <h4>姓名 : Cjplay6</h4> -->
 					<!-- <h4>工作 : Programmer</h4> -->
 					<!-- <h4>爱好 : C/C++</h4> -->
@@ -64,7 +68,6 @@
 					<strong>爱好 : </strong>
 					<img src="./image/C.png" title="c" width="16" />
 				</td>
-				<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 				<td>
 					<br/>
 					<br/>
