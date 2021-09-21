@@ -35,10 +35,9 @@
 		<br/>
 		<table width="1000">
 			<tr>
-				<td>
+				<td colspan="2">
 					<h1 id="geren">个人简介</h1>
 				</td>
-				<td></td>
 			</tr>
 			<tr>
 				<td>
