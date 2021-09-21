@@ -47,6 +47,7 @@
 					<img src="./image/A.png" title="a" width="16" />
 					<img src="./image/Y.png" title="y" width="16" />
 					<br/>
+					<br/>
 					<strong>工作 : </strong>
 					<img src="./image/P.png" title="p" width="16" />
 					<img src="./image/R.png" title="r" width="16" />
@@ -59,16 +60,18 @@
 					<img src="./image/E.png" title="e" width="16" />
 					<img src="./image/R.png" title="r" width="16" />
 					<br/>
+					<br/>
 					<strong>爱好 : </strong>
 					<img src="./image/C.png" title="c" width="16" />
 				</td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 				<td>
-					<img src="https://img1.baidu.com/it/u=2090098030,2357175027&fm=26&fmt=auto" title="me" width="128"/>
+					<br/>
+					<br/>
+					<br/>
+					<img src="https://img1.baidu.com/it/u=2090098030,2357175027&fm=26&fmt=auto" title="me" width="128" border="6"/>
 				</td>
+				<td>&nbsp;</td>
 			</tr>
 		</table>
 
