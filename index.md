@@ -29,6 +29,7 @@
 		<br/>
 		<br/>
 		<br/>
+		<a href="#geren">个人简介</a>
 		<br/>
 		<br/>
 		<br/>
@@ -37,6 +38,7 @@
 				<td>
 					<h1 id="geren">个人简介</h1>
 				</td>
+				<td></td>
 			</tr>
 			<tr>
 				<td>
@@ -69,8 +71,6 @@
 					<img src="./image/C.png" title="c" width="16" />
 				</td>
 				<td>
-					<br/>
-					<br/>
 					<br/>
 					<img src="https://img1.baidu.com/it/u=2090098030,2357175027&fm=26&fmt=auto" title="me" width="128" border="6"/>
 				</td>
