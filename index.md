@@ -7,19 +7,46 @@
     <body>
 		<h1>目录</h1>
 		<br/>
-		<br/>
 		<!-- <a href="#geren">个人简介</a> -->
 		🤘大威天龙，👌世尊地藏！  🤙大罗法咒，🙏般若诸佛！  ✋般若巴麻哄！🐉飞龙在天！
 		<br/>
 		<br/>
+		<img src="https://img2.baidu.com/it/u=3153897759,1180801003&fm=26&fmt=auto" title="girl1" width="88" border="6"/>
+		<img src="https://img0.baidu.com/it/u=2538338958,20269345&fm=26&fmt=auto" title="girl2" width="88" border="6"/>
+		<img src="https://img1.baidu.com/it/u=2557881853,3417484988&fm=26&fmt=auto" title="girl3" width="88" border="6"/>
+		<img src="https://img2.baidu.com/it/u=1039310593,2596669901&fm=26&fmt=auto" title="girl4" width="88" border="6"/>
+		<img src="https://img0.baidu.com/it/u=88688942,1231043856&fm=26&fmt=auto" title="girl5" width="88" border="6"/>
+		<img src="https://img2.baidu.com/it/u=1720778829,1931561071&fm=26&fmt=auto" title="girl5" width="88" border="6"/>
+		<img src="./image/xx.jpg" title="二次元" border="6" width="88"/>
 		<br/>
 		<br/>
 
 
 		<h1 id="geren">个人简介</h1>
-		<h4>姓名 : Cjplay6</h4>
-		<h4>工作 : Programmer</h4>
-		<h4>爱好 : C/C++</h4>
-		<img src="./image/xx.jpg" title="二次元" border="8"/>
+		<!-- <h4>姓名 : Cjplay6</h4> -->
+		<!-- <h4>工作 : Programmer</h4> -->
+		<!-- <h4>爱好 : C/C++</h4> -->
+		<strong>姓名 : </strong>
+		<img src="./image/C.png" title="c" width="16" />
+		<img src="./image/J.png" title="j" width="16" />
+		<img src="./image/P.png" title="p" width="16" />
+		<img src="./image/L.png" title="l" width="16" />
+		<img src="./image/A.png" title="a" width="16" />
+		<img src="./image/Y.png" title="y" width="16" />
+		<br/>
+		<strong>工作 : </strong>
+		<img src="./image/P.png" title="p" width="16" />
+		<img src="./image/R.png" title="r" width="16" />
+		<img src="./image/O.png" title="o" width="16" />
+		<img src="./image/G.png" title="g" width="16" />
+		<img src="./image/R.png" title="r" width="16" />
+		<img src="./image/A.png" title="a" width="16" />
+		<img src="./image/M.png" title="m" width="16" />
+		<img src="./image/M.png" title="m" width="16" />
+		<img src="./image/E.png" title="e" width="16" />
+		<img src="./image/R.png" title="r" width="16" />
+		<br/>
+		<strong>爱好 : </strong>
+		<img src="./image/C.png" title="c" width="16" />
     </body>
 </html>
